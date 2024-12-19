@@ -1,0 +1,206 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "name": "code",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "student": [
+    {
+      "first_name": "Adebayo",
+      "last_name": "Gbolahan",
+      "gender": "Male",
+      "phone_number": "+2348082896286",
+      "email_address": "Gbliss@gmail.com",
+      "course_you_would_like_to_take": "Frontend Developer",
+      "level_of_experience": "Beginner",
+      "id": "1"
+    },
+    {
+      "first_name": "Adebayo",
+      "last_name": "Shuqroh",
+      "gender": "female",
+      "phone_number": "+2348082896286",
+      "email_address": "Adebayoshuqroh@gmail.com",
+      "course_you_would_like_to_take": "Full Stack Developer",
+      "level_of_experience": "Beginner",
+      "id": "2"
+    },
+    {
+      "first_name": "Jimoh",
+      "last_name": "Ridwan",
+      "gender": "Male",
+      "phone_number": "+2348082896286",
+      "email_address": "jimohridoh1@gmail.com",
+      "course_you_would_like_to_take": "UI/UX Developer",
+      "level_of_experience": "Beginner",
+      "id": "3"
+    },
+    {
+      "first_name": "Abiola",
+      "last_name": "Mariam",
+      "gender": "female",
+      "phone_number": "+2348082896286",
+      "email_address": "mhariab@gmail.com",
+      "course_you_would_like_to_take": "Backend Developer",
+      "level_of_experience": "Beginner",
+      "id": "4"
+    },
+    {
+      "first_name": "Adegbite",
+      "last_name": "Quadri",
+      "gender": "Male",
+      "phone_number": "+2348082896286",
+      "email_address": "adegbiteoladimeji@gmail.com",
+      "course_you_would_like_to_take": "Website Developer",
+      "level_of_experience": "Beginner",
+      "id": "5"
+    },
+    {
+      "first_name": "kadiri",
+      "last_name": "jimoh",
+      "gender": "male",
+      "phone_number": "09037769469",
+      "email_address": "jimohkadiri@gmail.com",
+      "course_you_would_like_to_take": "Full Stack Engineer",
+      "level_of_experience": "Expert",
+      "id": "82a0"
+    },
+    {
+      "first_name": "Muritala",
+      "last_name": "Akande",
+      "gender": "Male",
+      "phone_number": "08023333333",
+      "email_address": "muritalaAkandke@gmail.com",
+      "course_you_would_like_to_take": "Product Designer",
+      "level_of_experience": "Expert",
+      "id": "a338"
+    },
+    {
+      "id": "9eb8",
+      "first_name": "Mariam",
+      "last_name": "Abiola",
+      "gender": "female",
+      "phone_number": "07064466485",
+      "email_address": "mhariab@gmail.com",
+      "course_you_would_like_to_take": "UI/UX",
+      "level_of_experience": "Intermediate"
+    },
+    {
+      "id": "5d00",
+      "first_name": "Olagunju",
+      "last_name": "Abdulhafeez",
+      "gender": "male",
+      "phone_number": "+234000000000000",
+      "email_address": "abdulhafeezolagunju@gmail.com",
+      "course_you_would_like_to_take": "Backend Development",
+      "level_of_experience": "Beginner"
+    },
+    {
+      "id": "5bb3",
+      "first_name": "Abideen",
+      "last_name": "Adenekan",
+      "gender": "Male",
+      "phone_number": "080222222222",
+      "email_address": "adej",
+      "course_you_would_like_to_take": "Fullstack Development",
+      "level_of_experience": "Intermediate"
+    },
+    {
+      "id": "a929",
+      "first_name": "Busayo",
+      "last_name": "Adeniji",
+      "gender": "Female",
+      "phone_number": "081677763883",
+      "email_address": "Adenijibusayo@gmail.com",
+      "course_you_would_like_to_take": "Wordpess Development",
+      "level_of_experience": "Beginner"
+    }
+  ],
+  "training_registration": [
+    {
+      "id": "1",
+      "name": "Gbolahan",
+      "email": "gblissdura@gmail.com",
+      "phone_number": "+2348082896286",
+      "course": "Advanced Frontend Development",
+      "registration_number": "T-090200"
+    },
+    {
+      "id": "2",
+      "name": "Adebayo",
+      "email": "adebayo@gmail.com",
+      "phone_number": "+2348082896286",
+      "course": "Backend Development Essentials",
+      "registration_number": "T-092055"
+    },
+    {
+      "id": "3",
+      "name": "Tessa",
+      "email": "tessab@gmail.com",
+      "phone_number": "+2348082896286",
+      "course": "Full Stack Web Development",
+      "registration_number": "T-155422"
+    },
+    {
+      "id": "4",
+      "name": "Alysson",
+      "email": "alyy@gmail.com",
+      "phone_number": "+2348082896286",
+      "course": "UX/UI Design Principles",
+      "registration_number": "T-200"
+    },
+    {
+      "id": "3068",
+      "name": "Adura",
+      "email": "adebayoahmed@gmail.com",
+      "phone_number": "+2348082896286",
+      "course": "Introduction to Cloud Computing",
+      "registration_number": "T-52523"
+    },
+    {
+      "id": "ecc1",
+      "name": "Demola",
+      "email": "demo@gmail.com",
+      "phone_number": "+2348082896286",
+      "course": "Python Programming Basics",
+      "registration_number": "T-552243"
+    },
+    {
+      "id": "88fe",
+      "name": "Ololade",
+      "email": "ololade@gmail.com",
+      "course": "Data Science with Python",
+      "registration_number": "T-10794"
+    },
+    {
+      "id": "70a5",
+      "name": "Jimoh Ridwan Olawale",
+      "email": "jimohridoh1@gmail.com",
+      "course": "Advanced UI/UX Development",
+      "registration_number": "T-035"
+    }
+  ]
+}

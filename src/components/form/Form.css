@@ -1,0 +1,118 @@
+.student-form {
+    width: 100%;
+    display: flex; 
+    justify-content: center; 
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-size: 50px;
+    font-weight: bolder;
+    padding: 300px;
+}
+
+.form-student {
+    min-height: 80vh;
+    padding: 50px;
+}
+
+.studentdv {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.studentdv button {
+    width: 150px;
+    height: 40px;
+    background-color: #017297;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+.first-name,
+.last-name,
+.gender,
+.phone-number,
+.email,
+.course,
+.level-of-experience {  
+    padding: 5px 10px;
+    width: 400px;
+    border: 3px solid #017297;
+    border-radius: 5px;
+}
+
+.pad {
+    border: none;
+    outline: none;
+    width: 100%;
+    background: transparent;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    text-align: justify;
+    color: #017297;
+    height: 40px;
+    padding-left: 10px;
+}
+
+.pad::placeholder {
+    color: #017297;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+}
+
+@media (max-width: 960px) {
+    .studentdv {
+        justify-content: center;
+        align-items: center;
+    }
+
+    .studentdv button {
+        width: 100px;
+        height: 40px;
+        background-color: #017297;
+        color: #fff;
+        border: none;
+        font-size: 13px;
+        border-radius: 5px;
+    }
+
+    .first-name,
+    .last-name,
+    .gender,
+    .phone-number,
+    .email,
+    .course ,
+    .level-of-experience {
+        padding: 5px 10px;
+        width: 250px;
+        border: 2px solid #017297;
+        border-radius: 5px;
+    }
+
+    .pad {
+        border: none;
+        outline: none;
+        width: 100%;
+        background: transparent;
+        font-family: 'Poppins', sans-serif;
+        font-style: normal;
+        font-size: 15px;
+        text-align: justify;
+        color: #017297;
+        height: 30px;
+        padding-left: 10px;
+    }
+
+    .pad::placeholder {
+        color: #017297;
+        font-size: 15px;
+        font-family: 'Poppins', sans-serif;
+        font-style: normal;
+    }
+}
